@@ -1,0 +1,8 @@
+
+firok:
+  spring:
+    slicer-handle:
+      folder-save-image: ./slicer-pan
+      image-save-prefix: img-
+server:
+  port: 29120
