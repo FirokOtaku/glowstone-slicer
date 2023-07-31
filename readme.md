@@ -10,5 +10,5 @@
 
 ![](glowstone-slicer.png)
 
-> 以 [木兰公共许可证 2.0](https://license.coscl.org.cn/MulanPubL-2.0) 开源  
+> 以 [木兰公共许可证 2.0](https://license.coscl.org.cn/MulanPubL-2.0) 开源    
 > Open source under [Mulan PSL 2.0](https://license.coscl.org.cn/MulanPubL-2.0) license
